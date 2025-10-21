@@ -31,7 +31,7 @@ salarioLiquido = salario_bruto - imposto
 print(f"Salário Bruto é igual a R$: {salario_bruto:.2f}")
 print(f"Imposto de renda é igual a R$: {imposto:.2f}")
 print(f"Salário líquido é igual a R$: {salarioLiquido:.2f}")
-#dsadasadsdadads
+
 
 
 
